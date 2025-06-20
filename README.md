@@ -25,7 +25,7 @@ Este proyecto analiza datos de ventas de 4 tiendas para comprender el rendimient
 
 ## 📷 Visualización Destacada
 
-![Gráfico de relación entre facturación y calificación](ruta/a/tu/imagen.png)
+![Gráfico de relación entre facturación y calificación](https://github.com/Ceciblue-arte/Alura-Store-Challege/commit/dd59e88e2c6d7b9f9919f9c3a3fd1bdca4be3e2)
 
 ## ✍️ Autor
 - Cecilia Solís Nuñez
